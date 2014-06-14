@@ -1,4 +1,3 @@
-szkola
-======
+
 
 coursera homework
